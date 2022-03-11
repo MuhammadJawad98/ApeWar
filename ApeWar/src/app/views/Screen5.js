@@ -76,15 +76,15 @@ const Screen5 = ({navigation, props}) => {
           }}>
           <ImageButton
             onPress={onPress}
-            src={require('../assets/statbtn1.png')}
+            src={require('../assets/btnGrey145.png')}
           />
           <ImageButton
             onPress={onPress}
-            src={require('../assets/statbtn2.png')}
+            src={require('../assets/btnGreyGang.png')}
           />
           <ImageButton
             onPress={onPress}
-            src={require('../assets/statbtn3.png')}
+            src={require('../assets/btnGreyWars.png')}
           />
         </View>
       </View>
